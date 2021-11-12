@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Sebastian
+
+<a href="https://www.linkedin.com/in/sebcioo/"><img src="https://img.shields.io/github/followers/sebcio-o?logoColor=for-the-badge&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile"/></a> &nbsp;
+
+<a href="https://github.com/sebcio-o"><img src="https://img.shields.io/badge/follow-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github follow"/></a>
+
 
 <!--
 **sebcio-o/sebcio-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
