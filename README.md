@@ -3,18 +3,13 @@
 <a href="https://www.linkedin.com/in/sebcioo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile"/></a> &nbsp;
 <a href="https://github.com/sebcio-o"><img src="https://img.shields.io/badge/follow-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github follow"/></a>
 
-
-<!--
-**sebcio-o/sebcio-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Welcome to my GitHub profile
+I am 18 years old passionate pythonista. I  
+started my journey when I was 14 years  
+old with game development in C# but I  
+switched to Python becouse I can  
+develop new things fast and it is realy  
+simple to create business value. My goal  
+is to become expert in Computer  
+Science, especially in fields like Data  
+Science and Backend Engineering.
